@@ -1,9 +1,9 @@
 <?php 
 
-  $db_user = 'sweetpok_dev';
+  $db_user = 'REDACTED';
   $db_host = 'localhost';
-  $db_name = 'sweetpok_general';
-  $db_passwd = '02202004';
+  $db_name = 'REDACTED';
+  $db_passwd = 'REDACTED';
 
   $db = @new mysqli(
       $db_host,
